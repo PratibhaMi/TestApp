@@ -10,4 +10,6 @@
 
 @implementation WeekDetailCollectionViewCell
 
+@property(nonatomic,strong) NSString * abc;
+
 @end
